@@ -9,8 +9,8 @@ from colorama import Fore, Style
 from colorama import init
 init()
 
-usr = "riskipratama89@outlook.com"
-pwd = "Berkahsiang712!"
+usr = "emailmu"
+pwd = "passwordmu"
 
 vm_name8 = ["r1","r2","r3","r4","r5","r6","r7","r8","r9","r10","r11","r12","r13","r14"]
 vm_name2 = ["mini1","mini2","mini3","mini4","mini5","mini6","mini7","mini8","mini9","mini10","mini11","mini12","mini13","mini14"]
